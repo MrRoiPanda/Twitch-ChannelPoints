@@ -1,5 +1,5 @@
 # Twitch ChannelPoints
-
+![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 Bot for auto harvesting your Channel point
 
 - Run program 
